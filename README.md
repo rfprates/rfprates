@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Fiorese Prates</h1>
 <h3 align="center">I'm a mechanical engineer in a career transition to the area of data science and analysis, very excited about the studies and learning I've been acquiring!</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, IA**
+- 🌱 I’m currently learning **Data Analytics, Data Science, Machine Learning and IA**
 
 - 📫 How to reach me **rfprates.97@gmail.com**
 
