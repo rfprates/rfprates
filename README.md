@@ -15,8 +15,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rfprates&show_icons=true&theme=dark&locale=en&layout=compact" alt="rfprates" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rfprates&show_icons=true&theme=dark&locale=en" alt="rfprates" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rfprates&theme=dark" alt="rfprates" /></p>
 
 <!--
@@ -34,4 +32,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rfprates&show_icons=true&theme=dark&locale=en" alt="rfprates" /></p>
 -->
