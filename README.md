@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Fiorese Prates</h1>
-<h3 align="center">I'm a Mechanical Engineering graduate, passionate about sports and currently working in the data field.</h3>
+<h3 align="center">I'm a Mechanical Engineering graduate, passionate about sports and health, currently working in the data field.</h3>
 
 - 📚 My studies focus on **Python for data science, data analysis, developing models using machine learning, and exploring other programming languages.**
 
